@@ -30,5 +30,6 @@ button {
 }
 
 #container div:hover {
-	background-color: #ccc;
+	background-color: var(--rgb);
+	opacity: 100;
 }
